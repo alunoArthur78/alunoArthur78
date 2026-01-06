@@ -14,17 +14,6 @@ I am a **Software Developer** passionate about building efficient solutions and 
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alunoArthur78&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alunoArthur78&layout=compact&langs_count=6&theme=transparent" />
-</p>
-
-
-
----
-
 ### 🚀 Featured Focus
 - 🛠️ Developing robust applications using **C#** and the **.NET** ecosystem.
 - 🌐 Crafting interactive and responsive web interfaces with **JavaScript**.
