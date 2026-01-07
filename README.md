@@ -21,8 +21,7 @@ I am a **Software Developer** passionate about building efficient solutions and 
 - 🔭 Constantly learning new patterns in software architecture and clean code.
 
 ### 📫 Let's Connect
-- 💼 **LinkedIn:** [Your Name](https://linkedin.com/in/YOUR-PROFILE)
-- ✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
+- ✉️ **Email:** [Son](mailto:your.email@example.com)
 
 ---
 <p align="center">
